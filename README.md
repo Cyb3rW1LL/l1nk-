@@ -13,7 +13,7 @@
 | [Threat Hunting for post Exploitation with ES](https://www.youtube.com/watch?v=PdCQChYrxXg)    | Threat Hunting for post Exploitation with ES  |
 | ~~[Useful collection and hunting platform](https://rocknsm.io/)~~                              | ~~Useful collection and hunting platform~~    |
 | ~~[Collection and Hunting platform ISOs, legacy only](https://download.rocknsm.io/isos/testing/)~~ | ~~Collection and Hunting platform ISOs, legacy only~~ |
-| [Replaced RockNSM](https://securityonionsolutions.com/software/)                               | Replaced RockNSM                              |
+| [SecOnion has essentially replaced RockNSM](https://securityonionsolutions.com/software/)                               | Replaced RockNSM                              |
 | [SO Docs](https://docs.securityonion.net/en/2.3/)                                              | SO Docs                                       |
 | [VECTR Explanation](https://www.youtube.com/watch?v=SA-HeOnOi2A)                               | VECTR Explanation                             |
 | [Atomic, what more can I say?](https://github.com/redcanaryco/atomic-red-team/)                | Atomic, what more can I say?                  |
