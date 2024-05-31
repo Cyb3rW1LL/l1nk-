@@ -23,6 +23,6 @@
 | [Build it Once, build it right! E.C.](https://www.youtube.com/watch?v=LVSwYyDN2Sk)             | Build it Once, build it right! E.C.           |
 | [Repo for some useful tools by Giga-a](https://github.com/qeeqbox/)                            | Repo for some useful tools by Giga-a          |
 | [R&B distro. Old concept, official release](https://www.kali.org/blog/kali-linux-2023-1-release/) | R&B distro. Old concept, official release     |
-| [Swiss Army Knife of deobfuscation, hashing, and encryption](https://gchq.github.io/CyberChef/) | Swiss Army Knife of deobfuscation, hashing, and encryption. |
+| [CyberChef](https://gchq.github.io/CyberChef/) | Swiss Army Knife of deobfuscation, hashing, and encryption. |
 | [RIP Mr.Geoff, awesome RE!](https://www.geoffchappell.com/about/analysis.htm)                  | RIP Mr.Geoff, awesome RE!                     |
 | [THE VX-Underground, and no, the password hasn't changed...](https://vx-underground.org)       | THE VX-Underground, and no, the password hasn't changed... |
