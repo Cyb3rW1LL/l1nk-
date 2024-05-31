@@ -21,7 +21,7 @@
 | [Eric Conrad on Sysmon and Mimi*](https://www.youtube.com/watch?v=7dEfKn70HCI)                 | Eric Conrad on Sysmon and Mimi*               |
 | [Threathunting via DNS E.C.](https://www.youtube.com/watch?v=RdcCjDS0s6s)                      | Threathunting via DNS E.C.                    |
 | [Build it Once, build it right! E.C.](https://www.youtube.com/watch?v=LVSwYyDN2Sk)             | Build it Once, build it right! E.C.           |
-| [Qeekbox honeypots for all the things by Giga-a](https://github.com/qeeqbox/)                            | Repo for some useful tools by Giga-a          |
+| [Qeeqbox honeypots for all the things by Giga-a](https://github.com/qeeqbox/)                            | Repo for some useful tools by Giga-a          |
 | [R&B distro. Old concept, official release](https://www.kali.org/blog/kali-linux-2023-1-release/) | R&B distro. Old concept, official release     |
 | [CyberChef](https://gchq.github.io/CyberChef/) | Swiss Army Knife of deobfuscation, hashing, and encryption. |
 | [RIP Mr.Geoff, awesome RE!](https://www.geoffchappell.com/about/analysis.htm)                  | RIP Mr.Geoff, awesome RE!                     |
