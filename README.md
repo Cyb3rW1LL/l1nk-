@@ -1,7 +1,6 @@
 # l1nks
 **just some useful l1nk$ to common tools and resources**
-## Jump to Policies and Standards
-[Common Policy and Standards](https://github.com/Cyb3rW1LL/l1nks/blob/main/README.md#common-policy-and-standards)
+### Jump to Policies and Standards [Common Policy and Standards](https://github.com/Cyb3rW1LL/l1nks/blob/main/README.md#common-policy-and-standards)
 
 | URL                                                                                             | Description                                  |
 |-------------------------------------------------------------------------------------------------|----------------------------------------------|
