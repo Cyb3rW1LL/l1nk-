@@ -1,6 +1,5 @@
 # l1nks
 **just some useful l1nk$ to common tools and resources**
-### [Policy and Compliance standards](https://github.com/Cyb3rW1LL/l1nks/edit/main/README.md#common-policy-and-standards)
 
 | URL                                                                                             | Description                                  |
 |-------------------------------------------------------------------------------------------------|----------------------------------------------|
