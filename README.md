@@ -42,6 +42,7 @@
 | [Wazuh, USE THIS FOR PRACTICE!](https://wazuh.com/)                                            | SET THIS UP AT HOME TO PRACTICE DCO (BLUE TEAMING |
 | [Sweet Odin's Raven, Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell?tab=readme-ov-file#parallel-processing)| Janik Vonrotz 'Awesome Powershell'|
 | [Mandiant CommandoVM, it's decent](https://github.com/mandiant/commando-vm)                    | Red Team/PT platform for the 133t3$t of h4x0rz|
+| [Madiant Github for all the tools to include flare-floss](https://github.com/mandiant)         | Mandiant's official Github for all tooling    |
 
 # Common Policy and Standards
 
