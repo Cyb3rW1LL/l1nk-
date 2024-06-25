@@ -54,6 +54,7 @@
 
 | URL | Description |
 | --- | --- |
+| [CIS](https://www.cisecurity.org/controls/cis-controls-list)| CIS Controls|
 | [NIST standards](https://www.nist.gov/cybersecurity) | NIST |
 | [OSSTMM](https://www.isecom.org/OSSTMM.3.pdf) | Common certifaction test topic|
 | [Public ISO standards](https://standards.iso.org/ittf/PubliclyAvailableStandards/index.html) | Open ISOs|
