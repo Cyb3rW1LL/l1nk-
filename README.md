@@ -6,10 +6,10 @@
 | [MSSA resource portal for Vets](https://guest.portaportal.com/Jen-Portal)                      | Resources GALORE! Vets should check this out! |
 ### Jump to Policies and Standards [Common Policy and Standards](https://github.com/Cyb3rW1LL/l1nks/blob/main/README.md#common-policy-and-standards)
 ## Tools Galore
-| URL                                                                                             | Description                                  |
-|-------------------------------------------------------------------------------------------------|----------------------------------------------|
-| [Att&ck Navigator for CTI](https://mitre-attack.github.io/attack-navigator/)                    | Att&ck Navigator for CTI                     |
-| [Att&ck "Enterprise" page](https://mitre-attack.github.io/attack-navigator/v2/enterprise/)      | Att&ck "Enterprise"                          |
+| URL                                                                                            | Description                                   |
+|------------------------------------------------------------------------------------------------|-----------------------------------------------|
+| [Att&ck Navigator for CTI](https://mitre-attack.github.io/attack-navigator/)                   | Att&ck Navigator for CTI                      |
+| [Att&ck "Enterprise" page](https://mitre-attack.github.io/attack-navigator/v2/enterprise/)     | Att&ck "Enterprise"                           |
 | [Att&ck training doc](https://attack.mitre.org/docs/training-cti/Comparing%20Layers%20in%20Navigator.pdf) | training doc                       |
 | [Youtube "Navigator" overview](https://www.youtube.com/watch?v=CfOl_yZDRnE)                    | Youtube resource for "Navigator"              |
 | [Att&ck Workbench](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend/) | Use it, it's incredibly helpful         |
