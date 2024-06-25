@@ -40,9 +40,12 @@
 | [NPS opensource practice with full documentation](https://nps.edu/web/c3o/labtainers)          | Get hands-on n00b practice with VMs           |
 | [Free Home-Use version of Tenable](https://community.tenable.com/s/article/Nessus-Essentials?language=en_US) | For your SO-HO vulnscan needs   |
 | [Wazuh, USE THIS FOR PRACTICE!](https://wazuh.com/)                                            | SET THIS UP AT HOME TO PRACTICE DCO (BLUE TEAMING |
-| [Sweet Odin's Raven, Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell?tab=readme-ov-file#parallel-processing)| Janik Vonrotz 'Awesome Powershell'|
+| [Sweet Odin's Raven, Awesome Powershell](https://github.com/janikvonrotz/awesome-powershell?tab=readme-ov-file#parallel-processing)| Janik Von Rotz 'Awesome Powershell'|
 | [Mandiant CommandoVM, it's decent](https://github.com/mandiant/commando-vm)                    | Red Team/PT platform for the 133t3$t of h4x0rz|
 | [Madiant Github for all the tools to include flare-floss](https://github.com/mandiant)         | Mandiant's official Github for all tooling    |
+| [Paralax-Honeypots](https://github.com/paralax/awesome-honeypots)                              | Great repo for honeypots                      |
+| [Paralax-Pentest](https://github.com/paralax/Awesome-Pentest-1)                                | Great repo for Pentesting                     |
+| [All the things Paralax](https://github.com/paralax?tab=repositories)                          | Just awesomeness all the way around           |
 
 # Common Policy and Standards
 
