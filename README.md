@@ -37,7 +37,9 @@
 | [ParrotOS](https://www.parrotsec.org/docs/introduction/what-is-parrot)                         | Newer for multiuse: HTB, Home, Forensics, etc.|
 | [ParrotOS Hack-The-Box edition](https://parrotsec.org/download/?version=hackthebox)            | Great Distro can add your tools as well       |
 | [FlareVM](https://github.com/mandiant/flare-vm)                                                | Great setup for all your malware needs        |
-| [Peass-ng - Win/*Nix](https://github.com/peass-ng/PEASS-ng)[Kali install](https://www.kali.org/tools/peass-ng/)| For all your Hack-The-Box needs|
+| [Remnux](https://remnux.org/?ltclid=#distro)                                                   | Because SIFT doesn't always cut it :)         |
+| [Peass-ng - Win/*Nix](https://github.com/peass-ng/PEASS-ng)                                    | Privesc                                       |
+| [Kali install](https://www.kali.org/tools/peass-ng/)                                           | For all your Hack-The-Box needs               |
 | [Overthewire Awesome situational Awareness Pratice](https://overthewire.org/wargames/)         | Linux-based                                   |
 | [Windows version of Overthewire](https://underthewire.tech/wargames)                           | Windows-based                                 | 
 | [NPS opensource practice with full documentation](https://nps.edu/web/c3o/labtainers)          | Get hands-on n00b practice with VMs           |
