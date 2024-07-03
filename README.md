@@ -38,7 +38,7 @@
 | [ParrotOS Hack-The-Box edition](https://parrotsec.org/download/?version=hackthebox)            | Great Distro can add your tools as well       |
 | [FlareVM](https://github.com/mandiant/flare-vm)                                                | Great setup for all your malware needs        |
 | [Peass-ng - Win/*Nix](https://github.com/peass-ng/PEASS-ng)[Kali install](https://www.kali.org/tools/peass-ng/)| For all your Hack-The-Box needs|
-| [Awesome situational Awareness/LoLbin pratice](https://overthewire.org/wargames/)              | Linux-based                                   |
+| [Overthewire Awesome situational Awareness Pratice](https://overthewire.org/wargames/)         | Linux-based                                   |
 | [Windows version of Overthewire](https://underthewire.tech/wargames)                           | Windows-based                                 | 
 | [NPS opensource practice with full documentation](https://nps.edu/web/c3o/labtainers)          | Get hands-on n00b practice with VMs           |
 | [Free Home-Use version of Tenable](https://community.tenable.com/s/article/Nessus-Essentials?language=en_US) | For your SO-HO vulnscan needs   |
