@@ -51,6 +51,8 @@
 | [Paralax-Honeypots](https://github.com/paralax/awesome-honeypots)                              | Great repo for honeypots                      |
 | [Paralax-Pentest](https://github.com/paralax/Awesome-Pentest-1)                                | Great repo for Pentesting                     |
 | [All the things Paralax](https://github.com/paralax?tab=repositories)                          | Just awesomeness all the way around           |
+| [Vulnhub boxes for you to practice on](https://www.vulnhub.com/)                               | Vulnhub                                       |
+| [KQL practice](https://kc7cyber.com/modules)                                                   | Kc7                                           |
 
 # Common Policy and Standards
 
