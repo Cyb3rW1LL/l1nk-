@@ -58,6 +58,7 @@
 
 | URL | Description |
 | --- | --- |
+| [DISA STIG Resources](https://public.cyber.mil/stigs/srg-stig-tools/)     | DISA |
 | [CIS](https://www.cisecurity.org/controls/cis-controls-list)| CIS Controls|
 | [NIST standards](https://www.nist.gov/cybersecurity) | NIST |
 | [OSSTMM](https://www.isecom.org/OSSTMM.3.pdf) | Common certifaction test topic|
