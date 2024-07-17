@@ -40,7 +40,7 @@
 | [Remnux](https://remnux.org/?ltclid=#distro)                                                   | Because SIFT doesn't always cut it :)         |
 | [Peass-ng - Win/*Nix](https://github.com/peass-ng/PEASS-ng)                                    | Privesc                                       |
 | [Kali install](https://www.kali.org/tools/peass-ng/)                                           | For all your Hack-The-Box needs               |
-| [Overthewire Awesome situational Awareness Pratice](https://overthewire.org/wargames/)         | Linux-based                                   |
+| [Overthewire Awesome Situational Awareness Pratice](https://overthewire.org/wargames/)         | Linux-based                                   |
 | [Windows version of Overthewire](https://underthewire.tech/wargames)                           | Windows-based                                 | 
 | [NPS opensource practice with full documentation](https://nps.edu/web/c3o/labtainers)          | Get hands-on n00b practice with VMs           |
 | [Free Home-Use version of Tenable](https://community.tenable.com/s/article/Nessus-Essentials?language=en_US) | For your SO-HO vulnscan needs   |
