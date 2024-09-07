@@ -54,6 +54,7 @@
 | [Vulnhub boxes for you to practice on](https://www.vulnhub.com/)                               | Vulnhub                                       |
 | [KQL practice](https://kc7cyber.com/modules)                                                   | Kc7                                           |
 | [Hacktricks for SA](https://book.hacktricks.xyz/)                                              | Hacktricks                                    |
+| [Unit42 Threat Intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)          | PA Unit42 CTI                                 |
 
 # Common Policy and Standards
 
